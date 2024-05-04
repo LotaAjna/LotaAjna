@@ -2,7 +2,7 @@
 
 ### Intro ✨
 
-Hello, je m'appel Toinon, je vous souhaite la bienvenue sur mon github 😊  
+Hello, je m'appelle Toinon, je vous souhaite la bienvenue sur mon github 😊  
 Je suis développeur et compositeur 💻🎹
 
 ### A short introduction ✨
